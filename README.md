@@ -1,4 +1,3 @@
-# Mothur-
 # Complete 16S rRNA Sequencing Analysis Pipeline Using Mothur
 
 ## Description
