@@ -91,3 +91,19 @@ summary.single(shared=current, calc=coverage-sobs-invsimpson-shannon)
 dist.shared(shared=current, calc=braycurtis)
 pcoa(phylip=current)
 
+```
+
+## Requirements
+* Mothur
+
+* Reference databases:
+*   SILVA alignment (silva.nr_v138.align)
+*   Training set for taxonomy (trainset16_022016.pds.fasta and .tax)
+
+## References
+*  Schloss et al. (2009) "Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities." Applied and Environmental Microbiology, 75(23), 7537-41.
+*  Mothur SOP: https://mothur.org/wiki/miseq-sop/
+
+License
+This project is licensed under the MIT License.
+
